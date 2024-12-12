@@ -1,6 +1,6 @@
 # Color Picker Widget Blueprint
 
-Simple widget blueprint used for selecting a color. 
+Simple widget blueprint used for selecting a color. Made this for a private project, but it's pretty standalone. Hopefully someone finds it useful.
 
 Comes with a dipatcher that is called when the color is changed.
 
